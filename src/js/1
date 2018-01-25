@@ -1,0 +1,24 @@
+import React from 'react';
+import ReactDOM from 'react-dom';
+import Routes from './routes.jsx';
+/*
+ReactDOM.render(
+  <Test />,
+  document.getElementById('content')
+);*/
+/*
+const render = Component =>
+ReactDOM.render(
+    '<div>Hello World Test</div>',
+    document.getElementById('content')
+)
+
+render(App);
+*/
+
+ReactDOM.render(
+    (
+        <Routes />
+    ),
+    document.getElementById('content')
+  );
