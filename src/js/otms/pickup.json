@@ -1,0 +1,194 @@
+[
+  {
+    "columnProperty": "orderNo",
+    "sequence": 0,
+    "display": true,
+    "sortable": true
+  },
+  {
+    "columnProperty": "erpNumber",
+    "sequence": 1,
+    "display": true,
+    "sortable": true
+  },
+  {
+    "columnProperty": "vendor",
+    "sequence": 2,
+    "display": true,
+    "sortable": false
+  },
+  {
+    "columnProperty": "orderStatus",
+    "sequence": 3,
+    "display": true,
+    "sortable": false
+  },
+  {
+    "columnProperty": "pickupSla",
+    "sequence": 4,
+    "display": true,
+    "sortable": true
+  },
+  {
+    "columnProperty": "deliverySla",
+    "sequence": 5,
+    "display": true,
+    "sortable": true
+  },
+  {
+    "columnProperty": "pickup",
+    "sequence": 6,
+    "display": false,
+    "sortable": true
+  },
+  {
+    "columnProperty": "delivery",
+    "sequence": 7,
+    "display": false,
+    "sortable": true
+  },
+  {
+    "columnProperty": "epodStatus",
+    "sequence": 8,
+    "display": true,
+    "sortable": false
+  },
+  {
+    "columnProperty": "shipFrom",
+    "sequence": 9,
+    "display": true,
+    "sortable": false
+  },
+  {
+    "columnProperty": "shipTo",
+    "sequence": 10,
+    "display": true,
+    "sortable": false
+  },
+  {
+    "columnProperty": "remark",
+    "sequence": 11,
+    "display": false,
+    "sortable": false
+  },
+  {
+    "columnProperty": "exceptions",
+    "sequence": 12,
+    "display": false,
+    "sortable": false
+  },
+  {
+    "columnProperty": "client",
+    "sequence": 13,
+    "display": false,
+    "sortable": false
+  },
+  {
+    "columnProperty": "locationName",
+    "sequence": 14,
+    "display": false,
+    "sortable": false
+  },
+  {
+    "columnProperty": "clientLocation",
+    "sequence": 15,
+    "display": false,
+    "sortable": false
+  },
+  {
+    "columnProperty": "nextStatus",
+    "sequence": 16,
+    "display": false,
+    "sortable": false
+  },
+  {
+    "columnProperty": "updateMilestone",
+    "sequence": 17,
+    "display": false,
+    "sortable": false
+  },
+  {
+    "columnProperty": "origin",
+    "sequence": 18,
+    "display": false,
+    "sortable": false
+  },
+  {
+    "columnProperty": "shipFromAddress",
+    "sequence": 19,
+    "display": false,
+    "sortable": false
+  },
+  {
+    "columnProperty": "destination",
+    "sequence": 20,
+    "display": false,
+    "sortable": false
+  },
+  {
+    "columnProperty": "shipToAddress",
+    "sequence": 21,
+    "display": false,
+    "sortable": false
+  },
+  {
+    "columnProperty": "createdOn",
+    "sequence": 22,
+    "display": false,
+    "sortable": true
+  },
+  {
+    "columnProperty": "totalQty",
+    "sequence": 23,
+    "display": false,
+    "sortable": true
+  },
+  {
+    "columnProperty": "totalWeight",
+    "sequence": 24,
+    "display": false,
+    "sortable": true
+  },
+  {
+    "columnProperty": "totalVolume",
+    "sequence": 25,
+    "display": false,
+    "sortable": true
+  },
+  {
+    "columnProperty": "totalInsurance",
+    "sequence": 26,
+    "display": false,
+    "sortable": true
+  },
+  {
+    "columnProperty": "cargo",
+    "sequence": 27,
+    "display": false,
+    "sortable": false
+  },
+  {
+    "columnProperty": "hoursTillPickupSLA",
+    "sequence": 28,
+    "display": false,
+    "sortable": true
+  },
+  {
+    "columnProperty": "hoursTillDeliverySLA",
+    "sequence": 29,
+    "display": false,
+    "sortable": true
+  },
+  {
+    "columnProperty": "deliveryDelay",
+    "sequence": 30,
+    "display": false,
+    "sortable": false
+  },
+  {
+    "columnProperty": "policyNumber",
+    "sequence": 31,
+    "display": false,
+    "sortable": false
+  }
+]
