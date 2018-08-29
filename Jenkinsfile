@@ -20,7 +20,8 @@ pipeline {
     stage('Deploay') {
       steps {
         sh '''time_build=$(date +"%Y%m%dT%H%M")
-tar zcf build_${time_build}.tar.gz build/'''
+'''
+        sh 'tar zcf build_${time_build}.tar.gz build/'
       }
     }
   }
